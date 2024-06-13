@@ -1,9 +1,7 @@
-/*
+https://github.com/fyneworks/xml-to-json/blob/master/jquery.xml2json.pack.js/*
  ### jQuery XML to JSON Plugin v1.0 - 2008-07-01 ###
  * http://www.fyneworks.com/ - diego@fyneworks.com
- * Dual licensed under the MIT and GPL licenses:
- *   http://www.opensource.org/licenses/mit-license.php
- *   http://www.gnu.org/licenses/gpl.html
+	* Licensed under http://en.wikipedia.org/wiki/MIT_License
  ###
  Website: http://www.fyneworks.com/jquery/xml-to-json/
 */
